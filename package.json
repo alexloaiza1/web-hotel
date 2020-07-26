@@ -1,0 +1,16 @@
+{
+  "name": "proyectohotel",
+  "version": "1.0.0",
+  "description": "Primer proyecto con NodeJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alexloaiza1@bitbucket.org/alexloaiza1/versionhotel.git"
+  },
+  "author": "Alex Loaiza",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/alexloaiza1/versionhotel#readme"
+}
